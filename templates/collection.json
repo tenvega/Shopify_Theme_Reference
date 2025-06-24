@@ -1,0 +1,21 @@
+{
+  "sections": {
+    "gp_section_552568330624435402": {
+      "type": "gp-section-552568330624435402",
+      "settings": {
+        "section_preload": "true",
+        "checksum": "f365fb33683d020e5f67d598eb6ea313afaadfcca263dfac4ad8d0d4aeeba2c9_1_1"
+      }
+    },
+    "gp_section_552568330641212618": {
+      "type": "gp-section-552568330641212618",
+      "settings": {
+        "checksum": "da0edce49fbce67286080fecb0fe27796257bbc3559e1b7243cc8d44aba98567_1_1"
+      }
+    }
+  },
+  "order": [
+    "gp_section_552568330624435402",
+    "gp_section_552568330641212618"
+  ]
+}
